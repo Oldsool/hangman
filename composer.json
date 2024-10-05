@@ -1,5 +1,5 @@
 {
-    "name": "alexandrOldsool/hangman",
+    "name": "alexandroldsool/hangman",
     "autoload": {
         "psr-4": {
             "Oldsool\\hangman\\": "src/"
