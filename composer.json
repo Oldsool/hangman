@@ -1,8 +1,8 @@
 {
-    "name": "alexandr/hangman",
+    "name": "alexandrOldsool/hangman",
     "autoload": {
         "psr-4": {
-            "freedrobili\\hangman\\": "src/"
+            "Oldsool\\hangman\\": "src/"
         },
         "files": [
             "src/Controller.php",
