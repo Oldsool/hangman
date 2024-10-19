@@ -7,6 +7,6 @@ if (file_exists($autoloadPath)) {
     require_once($autoloadPath);
 }
 
-use function Oldsool\hangman\Controller\startGame;
+use Oldsool\hangman\Controller\Controller;
 
-startGame();
+Controller::startGame();
