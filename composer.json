@@ -1,10 +1,10 @@
 {
-    "name": "Oldsool/hangman",
+    "name": "alexandroldsool/hangman",
     "license": "MIT",
     "autoload": {
-        "psr-4": {
-            "Oldsool\\hangman\\": "src/"
-        },
+      "psr-4": {
+        "alexandroldsool\\hangman\\": "src/"
+      },
         "files": [
             "src/Controller.php",
             "src/View.php",
